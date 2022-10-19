@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.rubaiyatalam.com/</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/home</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/research</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/teaching</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/teaching/health-economics</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/teaching/applied-econometrics-phd</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.rubaiyatalam.com/teaching/coding</loc>
+	<lastmod>2022-10-20T02:11:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
